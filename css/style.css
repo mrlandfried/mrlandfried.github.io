@@ -1,0 +1,26 @@
+p {
+                font-size: 24px;
+            }
+
+            ul li ol li {
+                color:#4d5bc4;
+                background-color:#c2996d;
+            }
+            table tr td{
+                text-align:center;
+            }
+
+            table {
+                width: 500px; 
+            }
+
+            .evenRow{
+                background-color: yellow;
+                color: blue;
+            }
+            .oddRow{
+                background-color: gray;
+            }
+            .headerRow {
+                background-color: green;
+            }
